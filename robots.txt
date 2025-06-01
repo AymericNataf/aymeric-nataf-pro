@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://aymericnataf.github.io/sitemap.xml
+Sitemap: 
+https://aymericnataf.github.io/aymeric-nataf-pro/sitemap.xml
